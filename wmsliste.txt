@@ -1,0 +1,13 @@
+http://osm-demo.wheregroup.com/service?SERVICE=WMS&Version=1.1.1&REQUEST=getCapabilities
+http://wms.wheregroup.com/cgi-bin/mapserv?map=%2Fdata%2Fumn%2Fmapbender_user%2Fmapbender_user.map&request=GetCapabilities&service=WMS 
+http://www.wms.nrw.de/gd/hk100?VERSION=1.3.0&SERVICE=WMS&REQUEST=GetCapabilities 
+http://sla.niedersachsen.de/agrarfoerderung/agrar-d3/services/wms?SERVICE=WMS&REQUEST=GetCapabilities
+http://nibis.lbeg.de/net3/public/ogc.ashx?Service=WMS&NodeId=84&Request=GetCapabilities
+http://www.geoportal.rlp.de/mapbender/php/wms.php?inspire=1&layer_id=30751&REQUEST=GetCapabilities&SERVICE=WMS
+http://rips-gdi.lubw.baden-wuerttemberg.de/arcgis/services/GDI/GDI_0100013200100097/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS
+http://service.schleswig-holstein.de/OGCFassade/SH_WMS_DOP40col_KF.aspx?Request=GetCapabilities&Service=WMS&Version=1.1.1
+http://geo.sv.rostock.de/geodienste/verwaltung/ows
+http://geoportal-vg.de/wms/lkvg_planung?REQUEST=GetCapabilities&SERVICE=WMS
+http://www.geodaten-mv.de/dienste/dvg_laiv_wms?
+http://www.geocms.com/webmap-nwm/ws/wms/b2c6a579-60f8-9035/regismv_kataster/?SERVICE=WMS&REQUEST=GetCapabilities
+http://www.wms.nrw.de/gd/guek500?SERVICE=WMS&REQUEST=GetCapabilities&VERSION=1.1.1
